@@ -7,3 +7,13 @@
  * @ignore  depend Library jQuery
  * @ignore  =====================================================================================
  */
+ 
+  ;(function(window,undefined){
+  	'use strict'
+ 	var $=require('jquery'),Q=require('pub/core.js');
+ 	
+ 	// 页面加载完毕执行
+ 	$(function(){
+ 		
+ 	});
+  })(window);
