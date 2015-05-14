@@ -15,6 +15,6 @@
  	// 页面加载完毕执行
  	$(function(){
  		var t=1;
-		var s=2;
+		var s=3;
  	});
   })(window);
