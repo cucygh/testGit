@@ -17,5 +17,6 @@
  		var t=1;
 		var s=2;
 		var str="this is ygh2 version";
+		var str2="fix ygh2"
  	});
   })(window);
