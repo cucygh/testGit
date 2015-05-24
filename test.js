@@ -17,5 +17,10 @@
  		var t=1;
 		var st='2';
 		var s=3;
+		var k=2;
+		var s=4;
+		var str="this is ygh2 versions";
+		var str2="fix ygh2s"
+		var test3="this diff";
  	});
   })(window);
