@@ -15,9 +15,10 @@
  	// 页面加载完毕执行
  	$(function(){
  		var t=1;
+		var k=2;
 		var s=4;
-		var str="this is ygh2 version";
-		var str2="fix ygh2"
+		var str="this is ygh2 versions";
+		var str2="fix ygh2s"
 		var test3="this diff";
  	});
   })(window);
