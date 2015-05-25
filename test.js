@@ -19,5 +19,6 @@
 		var str="this is ygh2 version";
 		var str2="fix ygh2"
 		var test3="this diff";
+		var t="";
  	});
   })(window);
